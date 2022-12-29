@@ -1,0 +1,136 @@
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.big_div{
+    width: 500px;
+    margin: 10px auto;
+    height: 500px;
+    background-color: aqua;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-around;
+}
+.div{
+    background-color: red; */
+
+    /* width: 30px;
+    height: 30px; */
+/* }
+.div2{
+    background-color: rgb(0, 4, 255);
+
+    width: 30px;
+    height: 30px;
+} */
+/* .cards{
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+    display: flex; */
+    /* flex-wrap: wrap-reverse; */
+    /* justify-content: center;
+    justify-content: space-around; */
+    /* flex-wrap: wrap-reverse; */
+    /* align-items: center; */
+    /* flex-direction: column-reverse; */
+/* } */
+/* .card-item{
+    background-color: red;
+    width: 10px;
+    border: 10px blue dashed;
+    height: 50px; */
+    /* margin: 10px ; */
+    /* padding: 20px;
+    /* color: white; */
+/* } */ 
+
+/* }
+.cards{
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+    margin: auto;
+gap: 25px;
+}
+.card-item{
+    width: 450px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.card-item-img{
+    width: 65px;
+    height: 55px;
+} */
+.container{
+    max-width: 1680px;
+    margin: auto;
+    padding: 75px;
+}
+.logo{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+}
+.logo_png{
+    width: 65px;
+    height: 55px;
+    display: block;
+}
+.currency{
+    margin-right: auto;
+    margin-left: 30px;
+}
+.currency-item{
+    margin: 0 10px;
+}
+.currency_item_mark{
+    font-size: 16px;
+    color: #285193;
+}
+.arrow_png{
+    width: 65px;
+    height: 55px;
+}
+.charge_png{
+    width: 65px;
+    height: 55px;
+}
+.tel_png{
+    width: 65px;
+    margin: 0 20px;
+    height: 55px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F6F6F9;
+}
+.additional{
+    display: flex;
+    margin: 0 20px;
+}
+.additional_search{
+width: 50px;
+background-color: white;
+border-radius: 5px;
+padding: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.Blackcat:hover{
+    display: inline-block;
+background-color: aqua;
+color: red;
+}
+.Blackcat-mas:active{
+    display: inline-block;
+color: red;
+background-color: aqua;
+}
